@@ -21,7 +21,7 @@ namespace MilhasParaKM
             Double quilometros = milha * 1.609;
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"{milha}Mi é igual a {quilometros}Km");
+            Console.WriteLine($"{milha}mi é igual a {quilometros}km");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Clique em uma tecla para finalizar este programa");
